@@ -1,0 +1,4 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Encapsulamento\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Encapsulamento\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Encapsulamento\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\Encapsulamento\AulaPOO_Encapsulamento\obj\Debug\netcoreapp3.1\AulaPOO_Encapsulamento.csproj.CoreCompileInputs.cache
